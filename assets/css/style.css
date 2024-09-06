@@ -56,5 +56,6 @@
 
 .github-link:hover {
     background-color: #0354be;
+    color: #fff;
     transform: scale(1.05);
 }
