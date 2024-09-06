@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/662f8efa-8a7f-4f7b-8602-c6c006faea21" alt="پلاگین پروفایل گیت هاب" />
+  <img src="https://github.com/user-attachments/assets/4a437cb4-cadd-4180-957d-9b244093ab70" alt="پلاگین پروفایل گیت هاب" />
   <br><br>
-  
+
   <p align="center">
   <a href="https://instagram.com/ami.r_ahmadii/" rel="nofollow" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@ami.r_ahmadii-E4405F?logo=instagram&style=for-the-badge" alt="Follow on Instagram" />
