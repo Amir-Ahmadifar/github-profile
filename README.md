@@ -1,4 +1,25 @@
-![WordpressGitHub-Hero-2048x1024px](https://github.com/user-attachments/assets/ab1b4717-49c6-4ea2-b77a-ea3ff61210b6)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/662f8efa-8a7f-4f7b-8602-c6c006faea21" alt="پلاگین پروفایل گیت هاب" />
+  <br><br>
+  
+  <p align="center">
+  <a href="https://instagram.com/yourprofile" rel="nofollow" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@yourprofile-E4405F?logo=instagram&style=for-the-badge" alt="Follow on Instagram" />
+  </a>
+  <a href="https://yourwebsite.com" rel="nofollow" target="_blank">
+    <img src="https://img.shields.io/badge/Website-yourwebsite-4A90E2?logo=world&style=for-the-badge" alt="Visit our website" />
+  </a>
+    <br><br>
+  <a href="https://linkedin.com/in/yourprofile" rel="nofollow" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-yourprofile-0077B5?logo=linkedin&style=for-the-badge" alt="Connect on LinkedIn" />
+  </a>
+  <a href="https://t.me/yourusername" rel="nofollow" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-@yourusername-26A5E4?logo=telegram&style=for-the-badge" alt="Chat on Telegram" />
+  </a>
+</p>
+
+
+</div>
 
 # github-profile
 This is a Wordpress Plugin to show your profile github using api token via shortcode
