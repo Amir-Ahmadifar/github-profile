@@ -3,8 +3,8 @@
   <br><br>
 
   <p align="center">
-  <a href="https://instagram.com/am-ahmadifar.ir/" rel="nofollow" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@am-ahmadifar.ir-E4405F?logo=instagram&style=for-the-badge" alt="Follow on Instagram" />
+  <a href="https://instagram.com/" rel="nofollow" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@am-ahmadifar-E4405F?logo=instagram&style=for-the-badge" alt="Follow on Instagram" />
   </a>
   <a href="https://t.me/amirahmadifaar" rel="nofollow" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-@amirahmadifaar-26A5E4?logo=telegram&style=for-the-badge" alt="Chat on Telegram" />
@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-amir-0077B5?logo=linkedin&style=for-the-badge" alt="Connect on LinkedIn" />
   </a>
   <a href="https://am-ahmadifar.ir" rel="nofollow" target="_blank">
-    <img src="https://img.shields.io/badge/Website-am-ahmadifar-4A90E2?logo=world&style=for-the-badge" alt="Visit our website" />
+    <img src="https://img.shields.io/badge/Website-AmirAhmadifar-4A90E2?logo=world&style=for-the-badge" alt="Visit our website" />
   </a>
 </p>
 
